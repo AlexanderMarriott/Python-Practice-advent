@@ -1,4 +1,4 @@
-#day 2 2015 1st challenge 
+#day 1 2015 1st challenge 
 
 '''
 #function to calculate total surface area of box
